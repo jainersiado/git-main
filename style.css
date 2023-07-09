@@ -1,5 +1,12 @@
 html {
-    background-color: white;
-    color: yellow;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    
+}
+
+img {
+    max-width: 100%;
     
 }
